@@ -3,6 +3,7 @@
 
 
 ## Youtube, Colab, 
+
 # Installation
 
 # Manim introduction
@@ -10,6 +11,10 @@
 # Example 
   1. Matrix multi
   
-  2. 
+  2. Riemann approximation introduction
+  
+  3. Inverse matrix(2x2)
+  
+  4. Inverse matrix(3x3)
   
   
