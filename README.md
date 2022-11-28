@@ -9,12 +9,12 @@
 # Manim introduction
 
 # Example 
-  1. Matrix multi
+  1. Matrix multi (4x4)
   
-  2. Riemann approximation introduction
+  2. Riemann approximation introduction (sinx)
   
-  3. Inverse matrix(2x2)
-  
-  4. Inverse matrix(3x3)
+  3. Inverse matrix (3x3)
   
   
+12/3-4 1st edition
+12/5 meet & dinner
