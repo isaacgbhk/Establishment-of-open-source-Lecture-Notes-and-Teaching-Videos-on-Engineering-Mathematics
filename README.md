@@ -2,14 +2,20 @@
 教育部教學實踐研究計畫 112 - 洪立昌老師、洪昊天
 
 
-## Youtube, Colab, 
+## Colab
 
 # Installation
 
+1. Use in you PC
+2. Use in Google Colab 
+
 # Manim introduction
+  
 
 # Example 
   1. Matrix multi (4x4)
+  
+  ![image](https://github.com/isaacgbhk/Open-sourced-Engineering-Mathematics-Lectures-and-Videos/blob/main/Demo/MatrixMulti_Colab.gif)
   
   2. Riemann approximation introduction (sinx)
   
