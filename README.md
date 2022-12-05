@@ -23,7 +23,7 @@
 :-------------------------:|:-------------------------:
 <img src="https://github.com/isaacgbhk/Open-sourced-Engineering-Mathematics-Lectures-and-Videos/blob/main/Demo/MatrixMulti_2x2.gif" width="300" height="168">  |  <img src="https://github.com/isaacgbhk/Open-sourced-Engineering-Mathematics-Lectures-and-Videos/blob/main/Demo/MatrixMulti_2x3.gif" width="300" height="168">
 
-  2. Riemann approximation introduction (sinx)
+2. Riemann approximation introduction (sinx)
   
   Try in [Colab](https://drive.google.com/file/d/1SutSamgFVJxuQFP5_vDAQiy9MTeivPm_/view?usp=sharing)
 
