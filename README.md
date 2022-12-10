@@ -1,4 +1,4 @@
-# Open-source-Engineering-Mathematics-Lectures-and-Videos
+# Establishment of open source Lecture Notes and Teaching Videos on Engineering Mathematics
 教育部教學實踐研究計畫 112 - 洪立昌老師、洪昊天
 
 # Animation
